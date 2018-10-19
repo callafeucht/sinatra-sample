@@ -1,2 +1,2 @@
 # sinatra-sample
-test
+sample sinatra app
